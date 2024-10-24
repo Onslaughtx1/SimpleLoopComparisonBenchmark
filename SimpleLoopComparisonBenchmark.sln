@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLoopComparisonBenchmark", "SimpleLoopComparisonBenchmark.csproj", "{10EBFCDA-66C5-4676-8D6E-836689A131C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10EBFCDA-66C5-4676-8D6E-836689A131C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10EBFCDA-66C5-4676-8D6E-836689A131C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10EBFCDA-66C5-4676-8D6E-836689A131C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10EBFCDA-66C5-4676-8D6E-836689A131C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F1E5764-60F3-44FD-A137-8E836E1B951B}
+	EndGlobalSection
+EndGlobal
